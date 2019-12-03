@@ -30,7 +30,7 @@ Work experience
   
 Skills
 ======
-* Python, R, SAS, basic of C/C++
+* Python, R, SAS, basics of C/C++
 * SQL, Cypher
 * Data Science, Data Analysis
 
