@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Valentina Ghidini"
   avatar           : "profile.png"
-  bio              : "PhD Student @Bocconi University"
-  location         : "Location"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  bio              : "PhD Student, Statistics"
+  location         : "Milan, Italy"
+  employer         : "Bocconi University"
+  pubmed           : 
+  googlescholar    : 
+  email            : "valentina.ghidini95@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "ValentinaGhidini"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/valentina-ghidini-918817111/"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "@ValentinaGhidin"
   vine             :
   weibo            :
   xing             :
