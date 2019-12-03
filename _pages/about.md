@@ -16,4 +16,8 @@ Research Interests
 * Deep Learning
 * Computational Statistics
 
+Contacts
+=======
+
+valentina.ghidini@phd.unibocconi.it
 
