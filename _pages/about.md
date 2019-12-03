@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Valentina Ghidini"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
