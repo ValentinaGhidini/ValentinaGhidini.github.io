@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : ""
+title                    : "About"
 title_separator          : "-"
 name                     : &name "Valentina Ghidini"
 description              : &description "personal description"
