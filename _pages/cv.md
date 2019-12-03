@@ -33,3 +33,6 @@ Skills
 * Python, R, SAS, basic of C/C++
 * SQL, Cypher
 * Data Science, Data Analysis
+
+
+A complete version of my Curriculum Vitae may be found [here](#files/ValentinaGhidiniCV.pdf)
