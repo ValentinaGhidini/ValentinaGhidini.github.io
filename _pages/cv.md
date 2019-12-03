@@ -11,49 +11,24 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D. in Statistics, Bocconi University, Current
+* M.Sc. in Stochastics and Data Science, University of Turin, 2019
+* B.Sc. in Statistics and Information Management, University of Milano-Bicocca, 2017
+
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Jan 2019 - July 2019: Research Internship
+  * ISI Foundation
+  * eXplainable Artificial Intelligence 
+  * Supervisor: A. Perotti, R. Schifanella
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Oct 2016 - Feb 2017: Research Internship
+  * CRISP
+  * Graph Databases, Data science, Data Analysis
+  * Supervisor: M. Cesarini
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Python, R, SAS, basic of C/C++
+* Data Science, Data Analysis, Databases
