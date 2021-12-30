@@ -35,4 +35,4 @@ Skills
 * Data Science, Data Analysis
 
 
-A complete version of my Curriculum Vitae may be found [here]({{ site.baseurl }}/files/ValentinaGhidiniCV.pdf)
+A complete version of my Curriculum Vitae may be found [here]({{ site.baseurl }}/files/GhidiniCV.pdf)
