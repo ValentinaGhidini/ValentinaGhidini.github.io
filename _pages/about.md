@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a second year PhD Student in Statistics at Bocconi University.
+I am a third year PhD Student in Statistics at Bocconi University.
 
 Research Interests
 ======
