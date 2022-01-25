@@ -15,6 +15,7 @@ Research Interests
 * Machine Learning
 * Deep Learning
 * Computational Statistics
+* Bayesian Statistics
 
 Contacts
 =======
