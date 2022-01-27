@@ -7,6 +7,9 @@ author_profile: true
 
 {% include base_path %}
 
+{% for post in site.teaching reversed %}
+  {% include archive-single.html %}
+{% endfor %}
 
 
 Fall 2021
@@ -21,3 +24,4 @@ Spring 2021
 Fall 2020
 ======
 * Statistics (course 30001), Bocconi University
+
