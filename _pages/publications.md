@@ -15,7 +15,7 @@ author_profile: true
 
 **Published**
 
-* Ghidini, V., Perotti, A., Schifanella, R. 
+* Ghidini, V., Perotti, A., Schifanella, R. (2019)
 **Quantitative and Ontology-Based Comparison of Explanations for Image Classification.**
 *Machine Learning, Optimization, and Data Science. LOD 2019. Lecture Notes in Computer Science, vol 11943. Springer, 2019* ([pdf]({{ site.baseurl }}/files/LOD_Final.pdf)).
 
