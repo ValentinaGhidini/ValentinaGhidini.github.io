@@ -13,9 +13,9 @@ I am a third year PhD Student in Statistics at Bocconi University, under the sup
 Research Interests
 ======
 * Machine Learning
-* Deep Learning
 * Computational Statistics
 * Bayesian Statistics
+* Explainability
 
 Contacts
 =======
