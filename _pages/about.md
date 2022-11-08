@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a third year PhD Student in Statistics at Bocconi University, under the supervision of Omiros Papaspiliopoulos and Daniele Durante.
+I am a fourth year PhD Student in Statistics at Bocconi University, under the supervision of Omiros Papaspiliopoulos and Daniele Durante.
 
 Research Interests
 ======
