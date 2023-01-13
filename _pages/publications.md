@@ -33,5 +33,5 @@ author_profile: true
 
 
 
-&#9733; Authors are in alphabetical order
+&#9733; Authors in alphabetical order
 
