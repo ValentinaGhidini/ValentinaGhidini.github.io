@@ -23,7 +23,7 @@ author_profile: true
 
 **Submitted/Under Review**
 
-* &#9824; Borgonovo, E., Ghidini, V., Hahn, R., Plischke, E. (2021+) 
+* &#9733; Borgonovo, E., Ghidini, V., Hahn, R., Plischke, E. (2021+) 
 **Post-hoc Explanations through Probabilistic Sensitivity Measures.**
 *Submitted*.
 
@@ -33,5 +33,5 @@ author_profile: true
 
 
 
-&#9824; Authors are in alphabetical order
+&#9733; Authors are in alphabetical order
 
