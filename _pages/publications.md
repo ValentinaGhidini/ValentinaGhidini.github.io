@@ -18,14 +18,14 @@ author_profile: true
 **Published**
 
 * **Ghidini, V.**, Perotti, A., Schifanella, R. (2019)
-**Quantitative and Ontology-Based Comparison of Explanations for Image Classification.**
-*Machine Learning, Optimization, and Data Science. LOD 2019. Lecture Notes in Computer Science, vol 11943. Springer, 2019* ([pdf]({{ site.baseurl }}/files/LOD_Final.pdf)).
+*Quantitative and Ontology-Based Comparison of Explanations for Image Classification.*
+Lecture Notes in Computer Science 11943, 58-70. ([pdf]({{ site.baseurl }}/files/LOD_Final.pdf)).
 
 **Submitted/Under Review**
 
 * Borgonovo, E., **Ghidini, V.**, Hahn, R., Plischke, E. &#9733; (2021+) 
-**Post-hoc Explanations through Probabilistic Sensitivity Measures.**
-*Submitted*.
+*Explaining Classifiers with Measures of Statistical Association*
+Revisions Submitted.
 
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
