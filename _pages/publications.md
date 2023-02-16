@@ -21,11 +21,13 @@ author_profile: true
 *Quantitative and Ontology-Based Comparison of Explanations for Image Classification.*
 Lecture Notes in Computer Science 11943, 58-70. ([pdf]({{ site.baseurl }}/files/LOD_Final.pdf)).
 
-**Submitted/Under Review**
-
 * Borgonovo, E., **Ghidini, V.**, Hahn, R., Plischke, E. &#9733; (2021+) 
 *Explaining Classifiers with Measures of Statistical Association*
-Revisions Submitted.
+In press.
+
+
+
+
 
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
