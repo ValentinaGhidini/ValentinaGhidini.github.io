@@ -15,18 +15,18 @@ author_profile: true
 
 
 
-**Published**
-
-* **Ghidini, V.**, Perotti, A., Schifanella, R. (2019)
-*Quantitative and Ontology-Based Comparison of Explanations for Image Classification.*
-Lecture Notes in Computer Science 11943, 58-70. ([pdf]({{ site.baseurl }}/files/LOD_Final.pdf)).
+**Refereed Journals**
 
 * Borgonovo, E., **Ghidini, V.**, Hahn, R., Plischke, E. &#9733; (2023) 
 *Explaining Classifiers with Measures of Statistical Association*
 In press.
 
 
+**Conference Proceedings**
 
+* **Ghidini, V.**, Perotti, A., Schifanella, R. (2019)
+*Quantitative and Ontology-Based Comparison of Explanations for Image Classification.*
+Lecture Notes in Computer Science 11943, 58-70. ([pdf]({{ site.baseurl }}/files/LOD_Final.pdf)).
 
 
 {% for post in site.publications reversed %}
