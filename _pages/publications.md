@@ -19,10 +19,12 @@ author_profile: true
 
 * Borgonovo, E., **Ghidini, V.**, Hahn, R., Plischke, E. &#9733; (2023) 
 *Explaining Classifiers with Measures of Statistical Association*
-In press.
+forthcoming.
 
 
 **Conference Proceedings**
+
+* **Ghidini, V.**, Legramanti, S., Argiento, R. (2023), Extended Stochastic Block Model with Spatial Covariates for Weighted Brain Networks. Bayesian Statistics, New Generations New Approaches (BAYSM2022), forthcoming.
 
 * **Ghidini, V.**, Perotti, A., Schifanella, R. (2019)
 *Quantitative and Ontology-Based Comparison of Explanations for Image Classification.*
