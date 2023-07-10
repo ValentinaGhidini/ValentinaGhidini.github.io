@@ -18,8 +18,7 @@ author_profile: true
 **Refereed Journals**
 
 * Borgonovo, E., **Ghidini, V.**, Hahn, R., Plischke, E. &#9733; (2023) 
-*Explaining Classifiers with Measures of Statistical Association*,  Computational Statistics & Data Analysis,
-forthcoming.
+*Explaining Classifiers with Measures of Statistical Association*,  Computational Statistics & Data Analysis, (182)107701.
 
 
 **Conference Proceedings**
