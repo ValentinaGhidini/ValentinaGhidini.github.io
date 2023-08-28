@@ -22,9 +22,12 @@ author_profile: true
 
 
 **Conference Proceedings**
+*  **Ghidini, V.**; (2023)
+ *Unlocking the mysteries of regression with Statistics.*  Lecture Notes in Computer Science (xAI2023), forthcoming.
 
 *  Ascolani, F., **Ghidini, V.**, &#9733; (2023)
  *Linear models with assumptions-free residuals: a Bayesian Nonparametric approach.*  Book of short papers SIS 2023, forthcoming.
+
 *  **Ghidini, V.**, Legramanti, S., Argiento, R.; (2023)
   *Binomial Extended Stochastic Block Model for Brain Networks.* Book of short papers SIS 2023, forthcoming.
 
