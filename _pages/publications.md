@@ -21,7 +21,7 @@ author_profile: true
 *Explaining Classifiers with Measures of Statistical Association*,  Computational Statistics & Data Analysis, (182)107701.
 
 
-**Conference Proceedings**
+**Refereed Conference Proceedings**
 *  **Ghidini, V.**; (2023)
  *Unlocking the mysteries of regression with Statistics.*  Lecture Notes in Computer Science (xAI2023), forthcoming.
 
