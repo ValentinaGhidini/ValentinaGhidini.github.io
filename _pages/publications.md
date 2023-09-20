@@ -26,10 +26,11 @@ author_profile: true
  *Unlocking the mysteries of regression with Statistics.*  Lecture Notes in Computer Science (xAI2023), forthcoming.
 
 *  Ascolani, F., **Ghidini, V.**, &#9733; (2023)
- <a href="[https://www.semrush.com/](https://it.pearson.com/content/dam/region-core/italy/pearson-italy/pdf/Docenti/Universit%C3%A0/bozza-book-compresso.pdf)">*Linear models with assumptions-free residuals: a Bayesian Nonparametric approach.* </a> Book of short papers SIS 2023, 253-256.
+  *Linear models with assumptions-free residuals: a Bayesian Nonparametric approach*, Book of short papers SIS 2023, 253-256.
+(<a href="[https://www.semrush.com/](https://it.pearson.com/content/dam/region-core/italy/pearson-italy/pdf/Docenti/Universit%C3%A0/bozza-book-compresso.pdf)">pdf</a>)
 
 *  **Ghidini, V.**, Legramanti, S., Argiento, R.; (2023)
-   <a href="[https://www.semrush.com/](https://it.pearson.com/content/dam/region-core/italy/pearson-italy/pdf/Docenti/Universit%C3%A0/bozza-book-compresso.pdf)">*Binomial Extended Stochastic Block Model for Brain Networks*.</a> Book of short papers SIS 2023, 1121-1126.
+  *Binomial Extended Stochastic Block Model for Brain Networks*. Book of short papers SIS 2023, 1121-1126. (<a href="[https://www.semrush.com/](https://it.pearson.com/content/dam/region-core/italy/pearson-italy/pdf/Docenti/Universit%C3%A0/bozza-book-compresso.pdf)">pdf</a>)
 
 * **Ghidini, V.**, Legramanti, S., Argiento, R.; (2023)
   *Extended Stochastic Block Model with Spatial Covariates for Weighted Brain Networks.* Bayesian Statistics, New Generations New Approaches (BAYSM2022), forthcoming.
