@@ -27,9 +27,7 @@ author_profile: true
 
 *  Ascolani, F., **Ghidini, V.**, (2023)
   *Posterior clustering for Dirichlet Process Mixtures of Gaussians with constant data*, Book of Short Papers CLADAG 2023, 42-45.  (<a href="https://it.pearson.com/content/dam/region-core/italy/pearson-italy/pdf/Docenti/Universit%C3%A0/CLADAG-2023.pdf">pdf</a>)
-   
-POSTERIOR CLUSTERING FOR DIRICHLET PROCESS
-MIXTURES OF GAUSSIANS WITH CONSTANT DATA
+  
 
 
 *  Ascolani, F., **Ghidini, V.**, &#9733; (2023)
