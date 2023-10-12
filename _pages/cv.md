@@ -11,13 +11,17 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Statistics, Bocconi University, Current
+* Ph.D. in Statistics, Bocconi University, 2024 (exp.)
 * M.Sc. in Stochastics and Data Science, University of Turin, 2019
 * B.Sc. in Statistics and Information Management, University of Milano-Bicocca, 2017
 
 
 Work experience
 ======
+* Sep 2023 - Current: Post doctoral researcher
+  * Università della Svizzera Italiana
+  * Multiresolutional data analysis
+ 
 * Jan 2019 - July 2019: Research Internship
   * ISI Foundation
   * eXplainable Artificial Intelligence 
