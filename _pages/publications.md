@@ -23,7 +23,7 @@ author_profile: true
 
 **Refereed Conference Proceedings**
 *  **Ghidini, V.**; (2023)
- *Unlocking the mysteries of regression with Statistics.*  Lecture Notes in Computer Science (xAI2023), forthcoming.
+ *Unlocking the mysteries of regression with Statistics.*  xAI2023: Communications in Computer and Information Science, vol 1901. (<a href="https://link.springer.com/chapter/10.1007/978-3-031-44064-9_6">pdf</a>).
 
 *  Ascolani, F., **Ghidini, V.**, (2023)
   *Posterior clustering for Dirichlet Process Mixtures of Gaussians with constant data*, Book of Short Papers CLADAG 2023, 42-45.  (<a href="https://it.pearson.com/content/dam/region-core/italy/pearson-italy/pdf/Docenti/Universit%C3%A0/CLADAG-2023.pdf">pdf</a>)
