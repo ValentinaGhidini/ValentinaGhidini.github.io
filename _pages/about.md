@@ -22,5 +22,5 @@ Research Interests
 Contacts
 =======
 
-ghidiv@usi.ch
+valentina.ghidini@usi.ch
 
