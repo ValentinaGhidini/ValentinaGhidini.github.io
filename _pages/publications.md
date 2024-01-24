@@ -14,7 +14,6 @@ author_profile: true
 
 
 
-
 **Refereed Journals**
 
 * Borgonovo, E., **Ghidini, V.**, Hahn, R., Plischke, E. &#9733; (2023) 
@@ -38,7 +37,7 @@ author_profile: true
   *Binomial Extended Stochastic Block Model for Brain Networks*. Book of short papers SIS 2023, 1121-1126. (<a href="https://it.pearson.com/content/dam/region-core/italy/pearson-italy/pdf/Docenti/Universit%C3%A0/bozza-book-compresso.pdf">pdf</a>)
 
 * **Ghidini, V.**, Legramanti, S., Argiento, R.; (2023)
-  *Extended Stochastic Block Model with Spatial Covariates for Weighted Brain Networks.* Bayesian Statistics, New Generations New Approaches (BAYSM2022), forthcoming.
+  *Extended Stochastic Block Model with Spatial Covariates for Weighted Brain Networks.* Bayesian Statistics, New Generations New Approaches (BAYSM2022), 435, 47-56.
 
 * **Ghidini, V.**, Perotti, A., Schifanella, R.; (2019)
 *Quantitative and Ontology-Based Comparison of Explanations for Image Classification.*
