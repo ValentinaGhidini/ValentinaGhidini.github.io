@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Statistics, Bocconi University, 2024 (exp.)
+* Ph.D. in Statistics, Bocconi University, 2024 
 * M.Sc. in Stochastics and Data Science, University of Turin, 2019
 * B.Sc. in Statistics and Information Management, University of Milano-Bicocca, 2017
 
