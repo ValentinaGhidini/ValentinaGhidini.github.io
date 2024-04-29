@@ -13,6 +13,10 @@ author_profile: true
 {% include base_path %}
 
 
+**Preprints**
+* Valentina Ghidini, Michael Multerer, Jacopo Quizi, Rohan Sen (2024)
+*Observation-specific explanations through scattered data approximation*  (<a href="https://arxiv.org/abs/2404.08747">link</a>)
+
 
 **Refereed Journals**
 
